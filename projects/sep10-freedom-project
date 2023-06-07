@@ -43,16 +43,16 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
+            <h1 class="margin text-center">SEP 10 Freedom Project</h1>
+            <p>A project worked on during the whole school year talking about the past, present, and future technologies of a specific topic chosen. </p>
             <p>More text about the project.</p>
-            <a href="https://andreaa1512.github.io/sep10-freedom-project/">SEP 10 Freedpm Project</a><br>
-            <a href="https://andreaa1512.github.io/sep10-freedom-project/">SEP 10 Freedpm Project</a><br>
+            <a href="https://andreaa1512.github.io/sep10-freedom-project/">SEP 10 Freedom Project</a><br>
+            <a href="https://andreaa1512.github.io/sep10-freedom-project/">SEP 10 Freedom Project (behind the scenes)</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
             <!--EXAMPLE OF GITHUB LINK-->
-            <!--<a href="http://github.com/yourUserName/yourRepoName">Github</a><br>-->
+            <!--<a href="http://github.com/andreaa1512/sep10-freedom-project">Github</a><br>-->
 
             <img src="../img/avatar.png" class="img-fluid project-img">
 
