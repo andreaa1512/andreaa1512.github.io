@@ -19,7 +19,7 @@ In the future, you will be editing these files using an IDE. For now, you will b
 * Click `script.js`, then click the pencil icon to edit the file.
 * Change line 1 so that the part between the quotes is your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
 * Change line 2 so that it matches your Github username. It must match _exactly_. For example, _johnd1234_
-* Click the green **commit** button at the bottom.
+* Click the green **commit** button (then confirm the commit). This will *save* your changes.
 
 ##### Uploading your logo
 
@@ -28,16 +28,16 @@ _NOTE 2: If your file is on Google Drive, you need to download it to the compute
 
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click on the folder `img`.
-* Click on **Add file** > **Upload files** and upload your logo. Click the green **commit** button at the bottom.
+* Click on **Add file** > **Upload files** and upload your logo. Click the green **commit** button.
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click `index.html`, then click the pencil icon to edit the file.
-* Around line 45, you'll see `<img src="img/avatar.png"...`. Change `img/avatar.png` to `img/logo.png` (unless you have a different filename). Make sure you _don't_ delete the part that says `img/`
+* Around line 46, you'll see `<img src="img/avatar.png"...`. Change `img/avatar.png` to `img/logo.png` (unless you have a different filename). Make sure you _don't_ delete the part that says `img/`
 * Stay on `index.html` for now.
 
 ##### Updating your information
 
-* Still on `index.html`, around line 78, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
-* Click the green **commit** button at the bottom.
+* Still on `index.html`, around line 79, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
+* Click the green **commit** button.
 
 ##### Previewing your site
 
@@ -71,6 +71,10 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 * In `index.html` use the example code around line 50 between `<!--` and `-->`. It is recommended that you copy/paste that code, but without the `<!--` and `-->`.
 * Make sure you update the `<h5>`, `<h6>`, and `<p>` inner text.
 * Update the `<a>` so that `href="projects/yourFileName.html"`
+
+##### Using code snippets
+
+You are welcome to use [Prism](https://github.com/hstatsep/other/blob/main/prism/prism.md) to add code snippets to your portfolio. Prism is already imported into your pages.
 
 ---
 
